@@ -1,0 +1,11 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build folders
+Debug/
+x64/
+
+# Ignore secret files
+Token.txt
